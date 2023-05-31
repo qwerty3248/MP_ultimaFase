@@ -1,0 +1,19 @@
+PROFESORES
+#Fichero de profesores con los datos de las fases iniciales.   
+12345678A*Laureano Amadeo*Abad Arrabal*01/01/1970*1*
+24680135B*Braulio*Buendia Bueno*02/02/1971*2*
+13579246C*Carmen*Cortes Cruz*03/03/1972*1*
+11223344D*Dionisio*Durante Diaz*02/02/1970*3*
+99887766E*Estrella*Narvaez Luz*04/04/1965*4*
+19283746F*Nicolas*Valero Pedros*05/05/1973*2*
+11111111A*Antonio*Perez Perez*01/01/1970*1*
+22222222B*Manuela*Garcia Garcia*02/02/1971*2*
+33333333C*Maria Jose*Valeron Tamayo de Arriba*03/03/1972*3*
+44444444C*Jose Maria*Cortes Gutierrez*04/04/1973*4*
+55555555C*Aurora*Boreal del Norte*05/05/1975*2*
+66666666C*Estrella*Polar*06/06/1976*1*
+77777777C*Leon*de la SabanaAfricana*07/07/1977*1*
+88888888C*Manuel*Nogal del Peral*08/08/1978*1*
+99999999C*Purificacion*Alba Blanca*09/09/1979*2*
+10101010C*Manuel*Albacete Real*10/10/1980*1*
+12121212C*Alvaro*Valencia Teruel*12/12/1982*3*
